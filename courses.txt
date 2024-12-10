@@ -4,3 +4,4 @@ Gen AI
 Service now
 Google Cloud Platform
 DevsecOps
+Git is used in every project
